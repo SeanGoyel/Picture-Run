@@ -19,7 +19,10 @@ dust particle, blemish, etc.
 - The image is analyzed to assure that the level is possible. In the case that it is not, moving blocks are rendered 
 in to aid players in their quest to complete the level. 
 
-### Example:
+### Examples:
+Winning!
+![Picture Run Demo](Examples/Example-Win.gif)
 
-![Picture Run Demo](Example.gif)
+Losing :(
+![Picture Run Demo](Examples/Example-Dead.gif)
     
