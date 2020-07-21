@@ -77,7 +77,7 @@ public class Player {
                 if (isTopCollision((int) x, (int) y)) {
                     jumping = false;
                 }
-                currentJumpingSpeed -= .1;
+                currentJumpingSpeed -= .2;
                 if (currentJumpingSpeed <= 0) {
                     currentJumpingSpeed = jumpSpeed;
                     jumping = false;
