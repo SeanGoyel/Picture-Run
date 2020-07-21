@@ -20,9 +20,11 @@ dust particle, blemish, etc.
 in to aid players in their quest to complete the level. 
 
 ### Examples:
-Winning!
+##### Winning!
+
 ![Picture Run Demo](Examples/Example-Win.gif)
 
-Losing :(
+##### Losing :(
+
 ![Picture Run Demo](Examples/Example-Dead.gif)
     
