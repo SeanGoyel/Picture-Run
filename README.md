@@ -6,12 +6,12 @@ opportunity to merge the real world with this game. Users can build their own le
 objects onto a surface and snapping a picture of it then proceeding to play on this customized level in the game. 
 This allows users to use their creativity to create fun, challenging and engaging levels for them to play.
 
-###Visuals:
+### Visuals:
 
 This project allowed me to learn a lot about graphics and visual components in Java. I enjoyed making aesthetic and 
 engaging player models, block models, menu screens, etc. 
 
-###Functionality:
+### Functionality:
 
 - Images are flood filled using BFS according to a colour tolerance to mark the background of the images.
 - Each identified object (platform) on the background is checked to assure that it is a valid platform and not a 
@@ -19,5 +19,7 @@ dust particle, blemish, etc.
 - The image is analyzed to assure that the level is possible. In the case that it is not, moving blocks are rendered 
 in to aid players in their quest to complete the level. 
 
+### Example:
 
+![Picture Run Demo](Example.gif)
     
